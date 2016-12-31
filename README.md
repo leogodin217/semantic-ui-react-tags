@@ -26,3 +26,4 @@ Also there is of course ES6 transpilation.
 ## License
 
 MIT
+# semantic-ui-react-tags
